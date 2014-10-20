@@ -63,6 +63,8 @@ public class MianGame extends javax.swing.JFrame {
 
     /**
      * @param args the command line arguments
+	 
+	 nasser.elislam@gmail.com
      */
     
    private  void newBoard(){
