@@ -29,7 +29,7 @@ public class Openning extends JFrame implements ActionListener {
     private JButton joinButn;
     private JButton exitButn;
     private BoardPanel myBoard;
-    private String[] listSapjectLevl = {"Beginner", "Intrmediate", "Advanced"};
+    private String[] listSapjectLevl = {"Beginner", "Intrmediate", "Advanced"}; //Here the levels of the game
     private String[] listBoardSize = {"9*9", "16*16", "16*30"};
     private Panel  northPanal ;
     private Panel southPanal ;
