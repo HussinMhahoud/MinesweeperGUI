@@ -9,7 +9,8 @@ import javax.swing.*;
 
 /**
  *
- * @author Fujitsju
+ * @author Hussin Mahmoud
+ *  e-mail: nasser.elislam@gmail.com
  */
 public class MianGame extends javax.swing.JFrame {
     private BoardPanel cinterPanal;
